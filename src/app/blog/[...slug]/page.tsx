@@ -6,7 +6,7 @@ const CatchAllRoute = async ({
   console.log(await params);
   return (
     <div>
-      <h1>This is Catch All Route component</h1>
+      <h1>Catch All Route component</h1>
     </div>
   );
 };
