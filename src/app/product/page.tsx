@@ -8,10 +8,17 @@ const ProductPage = async () => {
   // const res = await fetch("http://localhost:5000/products", {
   //   cache: "force-cache",
   // });
+
+  //ISR
+  // const res = await fetch("http://localhost:5000/products", {
+  //   next: {
+  //     revalidate: 30,
+  //   },
+  // });
+
+  // SSR
   const res = await fetch("http://localhost:5000/products", {
-    next: {
-      revalidate: 30,
-    },
+    cache: "no-store",
   });
 
   const products = await res.json();
