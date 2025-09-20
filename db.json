@@ -1,0 +1,123 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "product_name": "Wireless Mouse",
+      "category": "Electronics",
+      "brand": "LogiTech",
+      "price": 25.99,
+      "image": "https://via.placeholder.com/150?text=Wireless+Mouse"
+    },
+    {
+      "id": 2,
+      "product_name": "Running Shoes",
+      "category": "Footwear",
+      "brand": "Nike",
+      "price": 79.5,
+      "image": "https://via.placeholder.com/150?text=Running+Shoes"
+    },
+    {
+      "id": 3,
+      "product_name": "Smartphone",
+      "category": "Mobile",
+      "brand": "Samsung",
+      "price": 599.99,
+      "image": "https://via.placeholder.com/150?text=Smartphone"
+    },
+    {
+      "id": 4,
+      "product_name": "Bluetooth Speaker",
+      "category": "Electronics",
+      "brand": "JBL",
+      "price": 45.0,
+      "image": "https://via.placeholder.com/150?text=Bluetooth+Speaker"
+    },
+    {
+      "id": 5,
+      "product_name": "Wrist Watch",
+      "category": "Accessories",
+      "brand": "Casio",
+      "price": 120.75,
+      "image": "https://via.placeholder.com/150?text=Wrist+Watch"
+    },
+    {
+      "id": 6,
+      "product_name": "Backpack",
+      "category": "Bags",
+      "brand": "North Face",
+      "price": 65.2,
+      "image": "https://via.placeholder.com/150?text=Backpack"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "text": "This wireless mouse is smooth and very responsive!",
+      "productId": 1
+    },
+    {
+      "id": 2,
+      "text": "Good value for money, battery lasts long.",
+      "productId": 1
+    },
+
+    {
+      "id": 3,
+      "text": "Super comfortable running shoes, great for daily jogs.",
+      "productId": 2
+    },
+    {
+      "id": 4,
+      "text": "Stylish design but the size runs a bit small.",
+      "productId": 2
+    },
+
+    {
+      "id": 5,
+      "text": "The smartphone performance is top-notch!",
+      "productId": 3
+    },
+    {
+      "id": 6,
+      "text": "Camera quality could be better at night.",
+      "productId": 3
+    },
+
+    {
+      "id": 7,
+      "text": "Loud and clear sound from this speaker.",
+      "productId": 4
+    },
+    {
+      "id": 8,
+      "text": "Compact design, easy to carry around.",
+      "productId": 4
+    },
+
+    {
+      "id": 9,
+      "text": "The wrist watch looks elegant and classy.",
+      "productId": 5
+    },
+    {
+      "id": 10,
+      "text": "Durable strap and accurate timekeeping.",
+      "productId": 5
+    },
+
+    {
+      "id": 11,
+      "text": "The backpack is very spacious and durable.",
+      "productId": 6
+    },
+    {
+      "id": 12,
+      "text": "Comfortable to wear, perfect for traveling.",
+      "productId": 6
+    }
+  ],
+
+  "profile": {
+    "name": "typicode"
+  }
+}
